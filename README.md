@@ -2,17 +2,17 @@
 Basic web development fundaments like HTML/CSS/JS/Bootstrap/jQuery
 
 
-#HTML
+# HTML
 https://www.w3schools.com/html/
 
-#Bootstrap
+# Bootstrap
 https://www.w3schools.com/bootstrap/bootstrap_get_started.asp
 
-#CSS
+# CSS
 https://www.w3schools.com/css/default.asp
 
-#jQuery
+# jQuery
 https://www.w3schools.com/jQuery/default.asp
 
-#JS
+# JS
 https://www.w3schools.com/js/default.asp
